@@ -11,7 +11,7 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "This is a basic POI"
+        "title": "Centro Cultural Santo Domingo"
       }
     }, 
     {
@@ -26,8 +26,8 @@
       }, 
       "id": 2, 
       "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
+        "description": "Es una verdadera joya turística, con un templo, museo y jardín etnobotanico", 
+        "title": "Centro Cultural Santo Domingo"
       }
     }, 
     {
