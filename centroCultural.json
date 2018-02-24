@@ -1,0 +1,23 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.06588623009645, 
+          "lon": -96.72326985996654
+        }
+      },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/ClaudiaAraceliLR/centro-cultural/master/centro-cultural-santo-domingo.jpg"
+      },
+      "id": 1,
+      "text": {
+        "description": "Es una verdadera joya turística, con un templo, museo y jardín etnobotanico", 
+        "title": "Centro Cultural Santo Domingo"
+      }
+    }
+  ],
+  "layer": ""
+}
